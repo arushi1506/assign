@@ -118,6 +118,8 @@ digital-wallet/
 │   ├── swagger/
 │   │   └── swagger.js
 
+
+```
 ## Testing
 
 Run tests using the following command:
